@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LED App</string>
+    <string name="LED_ON">LED ON</string>
+    <string name="LED_OFF">LED OFF</string>
+    <string name="Options">Options</string>
+    <string name="Status"></string>
+    <string name="Refresh">Refresh</string>
+</resources>
